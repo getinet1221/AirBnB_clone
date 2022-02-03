@@ -13,6 +13,11 @@ AirBnB clone is a complete web application, integrating database storage,
 a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
+## Tasks
+- [0. Inline styling](./web_static/0-index.html) 
+	- Write an HTML page that displays a header and a footer.
+- [1. Head styling](./web_static/1-index.html)
+	- Write an HTML page that displays a header and a footer by using the style tag in the head tag (same as 0-index.html)
 
 ## Classes :cl:
 
